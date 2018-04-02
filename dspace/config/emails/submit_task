@@ -1,0 +1,25 @@
+# Workflow task email message
+#
+# {0}  Title of submission
+# {1}  Name of collection
+# {2}  submitter's name
+# {3}  Description of task
+# {4}  link to 'my DSpace' page 
+#
+Subject: DSpace: Tienes una nueva tarea
+
+Un nuevo ítem fue enviado:
+
+Título:      {0}
+Colección:   {1}
+Enviado por: {2}
+
+{3}
+
+Para acerte cargo de esta tarea, visita tu página en el Repositorio Académico 
+de la Carrera de Comunicación Social:  {4}
+
+¡Muchas gracias!
+
+Carrera de Comunicación Social - Universidad Católica Boliviana "San Pablo" Unidad Académica Cochabamba
+

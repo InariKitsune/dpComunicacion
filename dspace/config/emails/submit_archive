@@ -1,0 +1,22 @@
+# Item Archived email message
+#
+# {0}  Title of submission
+# {1}  Name of collection
+# {2}  handle 
+#
+Subject: DSpace: Tu envio fue aprovado y archivado
+
+Enviaste: {0}
+
+A la colección: {1}
+
+Tu envio fue aceptado y archivado en el Repositorio Académico de la Carrera de Comunicación Social,
+se le ha asignado el siguiente identificador:
+{2}
+
+Puedes utilizar este identificador cuando cites tu envio.
+
+¡Muchas gracias!
+
+Carrera de Comunicación Social - Universidad Católica Boliviana "San Pablo" Unidad Académica Cochabamba
+

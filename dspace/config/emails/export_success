@@ -1,0 +1,16 @@
+# Email sent to DSpace users when they successfully export an item or collection.
+#
+# Parameters: {0} is expanded to a special URL
+#             {1} configurable time (hours) an export file will be kept
+#
+# See org.dspace.core.Email for information on the format of this file.
+#
+Subject: DSpace - La importación de ítems que solicitaste está lista para ser descargada
+Los ítems que solicitaste exportar del directorio están listos para ser descargados.
+
+Puedes descargar el archivo comprimido usando el siguiente enlace:
+{0}
+
+El archivo estará disponible por las siguientes {1} horas.  
+
+Carrera de Comunicación Social - Universidad Católica Boliviana "San Pablo" Unidad Académica Cochabamba

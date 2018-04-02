@@ -1,0 +1,12 @@
+# E-mail sent to DSpace users when new items appear in collections they are
+# subscribed to
+#
+# Parameters: {0} is the details of the new collections and items
+# See org.dspace.core.Email for information on the format of this file.
+#
+Subject: DSpace: Subscripción
+Hay nuevos ítems en las colecciones a las que te subscribiste:
+
+{0}
+
+Carrera de Comunicación Social - Universidad Católica Boliviana "San Pablo" Unidad Académica Cochabamba

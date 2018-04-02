@@ -1,0 +1,15 @@
+# E-mail sent to DSpace users when they register for an account
+#
+# Parameters: {0} is expanded to a special registration URL
+#
+# See org.dspace.core.Email for information on the format of this file.
+#
+Subject: Registro de cuenta en el Repositorio Académico de la Carrera de Comunicación Social - Universidad Católica Boliviana "San Pablo" Unidad Académica Cochabamba
+Por favor utilice el link a continuación para completar el registro de su cuenta:
+
+  {0}
+
+Si necesitas ayuda envianos un correo a
+dspace-help@myu.edu o llamanos al xxx-555-xxxx.
+
+Carrera de Comunicación Social - Universidad Católica Boliviana "San Pablo" Unidad Académica Cochabamba

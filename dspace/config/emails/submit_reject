@@ -1,0 +1,23 @@
+# Rejection email message
+#
+# {0}  Title of submission
+# {1}  Name of collection
+# {2}  Name of the rejector
+# {3}  Reason for the rejection
+# {4}  Link to 'My DSpace' page
+#
+Subject: DSpace: Envio rechazado
+
+Enviaste: {0}
+
+A la colección: {1}
+
+Tu envio fue rechazado por {2} por los siguientes motivos:
+
+{3}
+
+Tu envio no fue borrado.  Aun puedes acceder a el desde tu página en el
+Repositorio Académico de la Carrera de Comunicación Social: {4}
+
+Carrera de Comunicación Social - Universidad Católica Boliviana "San Pablo" Unidad Académica Cochabamba
+
